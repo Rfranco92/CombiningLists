@@ -1,6 +1,4 @@
 // Ryan Franco
-// The Rockport Group
-// 2/3/2022 Due Date
 //combine 2 sorted lists of integers into a single list which is sorted as well
 #include <vector>
 #include <iostream>
